@@ -23,6 +23,7 @@ public class _01_declare_and_initialize_array {
 //        System.out.println(arr);
 
         System.out.println("hello");
+        System.out.println("My Java Journey begins!");
 
      }
 }
